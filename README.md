@@ -6,7 +6,7 @@
 
 ---
 
-### GitHub Contribution Stats :
+### GitHub Contributed Stats :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wonseoyang&show_icons=true&locale=en" alt="wonseoyang" /></p>
 
