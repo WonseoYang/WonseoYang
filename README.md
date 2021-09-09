@@ -19,6 +19,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wonseoyang&show_icons=true&locale=en&layout=compact" alt="wonseoyang" /></p>
 <hr>
+
 ### Contact :
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dnjstj96@gmail.com)
