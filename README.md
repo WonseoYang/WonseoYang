@@ -1,8 +1,8 @@
 ### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWonseoYang&count_bg=%233D56C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 안녕하세요 !! 👋👋
+### 안녕하세요 !! 👋👋
 
-### 저는 웹 프론트엔드 개발자를 꿈꾸는 양원서입니다.
+#### 저는 웹 프론트엔드 개발자를 꿈꾸는 양원서입니다.
 
 ---
 
