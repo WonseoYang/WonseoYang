@@ -1,16 +1,24 @@
-### Hi there 👋
+### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 
-<!--
-**WonseoYang/WonseoYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 안녕하세요 !! 👋👋
 
-Here are some ideas to get you started:
+#### 저는 웹 프론트엔드 개발자를 꿈꾸는 양원서입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### GitHub Contribution Stats :
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wonseoyang&show_icons=true&locale=en" alt="wonseoyang" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wonseoyang&" alt="wonseoyang" /></p>
+
+### Skills:
+
+<p align="left">  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+## <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wonseoyang&show_icons=true&locale=en&layout=compact" alt="wonseoyang" /></p>
+
+### Contact :
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dnjstj96@gmail.com)
